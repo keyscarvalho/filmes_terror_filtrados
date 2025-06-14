@@ -28,6 +28,7 @@ Durante o projeto, foram desenvolvidas e aplicadas as seguintes habilidades téc
 
 ## 📁 Estrutura do Projeto
 
+```bash
 analise_terror_csv/
 ├── data/
 │ ├── raw/ # Arquivos brutos (.tsv) da IMDb
@@ -36,7 +37,7 @@ analise_terror_csv/
 │ └── main.py
 ├── requirements.txt
 └── README.md
-
+```
 ---
 
 ## 🗂 Etapas do Projeto
