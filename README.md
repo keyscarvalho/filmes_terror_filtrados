@@ -80,7 +80,7 @@ python main.py
 `pandas`
 
 ## 📌 Fonte dos dados
-[IMDb Non-Commercial Datasets](https://developer.imdb.com/non-commercial-datasets/)
+[IMDb Non-Commercial Datasets](https://datasets.imdbws.com/)
 
 ## 👩‍💻 Sobre o projeto
 
