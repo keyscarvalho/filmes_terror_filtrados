@@ -1,9 +1,9 @@
 import pandas as pd
 
 # 1. Carregando os dados
-basics = pd.read_csv('data/raw/title.basics.tsv', sep='\t', na_values='\\N', dtype=str)
+basics = pd.read_csv('../data/raw/title.basics.tsv', sep='\t', na_values='\\N', dtype=str)
 
-ratings = pd.read_csv('data/raw/title.ratings.tsv', sep='\t', na_values='\\N', dtype=str)
+ratings = pd.read_csv('../data/raw/title.ratings.tsv', sep='\t', na_values='\\N', dtype=str)
 
 # 2. Filtrar apenas filmes (titleType = movie) e que sejam do gênero Terror
 
